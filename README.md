@@ -25,3 +25,15 @@ and pattern recognition for coding interviews.
 
 ## 🎯 Objective
 To master core Data Structures and Algorithms concepts
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/WANI-OWAIS/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/WANI-OWAIS/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
